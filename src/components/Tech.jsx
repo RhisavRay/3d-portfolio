@@ -1,6 +1,7 @@
-import React from 'react'
 
-const Tech = () => {
+
+const Tech = () =>
+{
   return (
     <div>Tech</div>
   )
